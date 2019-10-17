@@ -6,7 +6,7 @@ dependencies:
     path: ../
   video_player:
     git:
-      url: git://github.com/Lykeosovandara/Video_Player.git 
+      url: git://github.com/Lykeosovandara/video_player_flutter.git
   auto_orientation: ^0.0.2
   flutter:
     sdk: flutter
